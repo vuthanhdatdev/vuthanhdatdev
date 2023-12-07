@@ -1,0 +1,96 @@
+{
+    "information": {
+        "firstName": "Dat",
+        "lastName": "Vu Thanh",
+        "indicator": "·",
+        "country": "Vietnam",
+        "city": "Saigon",
+        "phoneNumber": "(+84) 94-347-6316",
+        "address": "Saigon · Vietnam",
+        "email": "dev.thanhdat@gmail.com",
+        "pdfUrl": "https://github.com/vuthanhdatdev/vuthanhdatdev/blob/main/MyCV.pdf",
+        "githubUrl": "https://github.com/vuthanhdatdev",
+        "shortIntroduction": "I am passionate software wizard with 6 years experience of Java, AWS, NodeJS",
+        "linkedInUrl": "https://github.com/vuthanhdatdev",
+        "twitterUrl": "https://twitter.com/vuthanhdat_dev",
+        "facebookUrl": "https://www.facebook.com/vuthanhdat.developer",
+        "shortBriefLife": [
+            "Apart from being a developer, I enjoy most of my time being outdoors. In the vacations, I am an motor rider to explore the worlds(and all the states of Vietnam). During the free time in my life, I enjoy mechanical keyboard building.",
+            "When forced indoors, I do practice with some kind of music instruments, I am an part-time guitarist, and I spend a large amount of my free time exploring the latest technology advancements in the full-stack development world."
+        ]
+    },
+    "educations": [
+        {
+            "startFrom": "September 2012",
+            "endFrom": "June 2016",
+            "school": "Lotus University",
+            "gpa": "3.0",
+            "degreeType": "Bachelor",
+            "major": "Software Engineering"
+        }
+    ],
+    "workHistories": [
+        {
+            "companyName": "LeapXpert",
+            "detail": "",
+            "startFrom": "December 2022",
+            "endFrom": "",
+            "position": "Senior Software Engineer"
+        },
+        {
+            "companyName": "PayOK In Partnership with Positive Thinking Company",
+            "detail": "",
+            "startFrom": "March 2021",
+            "endFrom": "December 2022",
+            "position": "Senior Software Engineer"
+        },
+        {
+            "companyName": "B13 Technology",
+            "detail": "",
+            "startFrom": "February 2019",
+            "endFrom": "",
+            "position": "Freelance Developer"
+        },
+        {
+            "companyName": "KMS Technology",
+            "detail": "",
+            "startFrom": "January 2017",
+            "endFrom": "February 2019",
+            "position": "Software Engineer"
+        },
+        {
+            "companyName": "AdNovum",
+            "detail": "",
+            "startFrom": "June 2016",
+            "endFrom": "December 2016",
+            "position": "Software Engineer"
+        },
+        {
+            "companyName": "Freelancer",
+            "detail": "",
+            "startFrom": "June 2014",
+            "endFrom": "December 2017",
+            "position": "Freelance Developer"
+        }
+    ],
+    "certifications": [
+        {
+            "startFrom": "May 2022",
+            "endFrom": "May 2025",
+            "name": "AWS Solution Architect Associate",
+            "providedBy": "Amazon"
+        },
+        {
+            "name": "Oracle Certified Professional, Java SE 8 Programmer",
+            "providedBy": "Oracle",
+        },
+        {
+            "name": "IELTS",
+            "score": "7.0",
+            "startFrom": "August 2018",
+            "endFrom": "August 2020",
+            "providedBy": "British Council"
+        }
+    
+    ]
+}
