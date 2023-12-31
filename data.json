@@ -8,7 +8,8 @@
         "phoneNumber": "(+84) 94-347-6316",
         "address": "Saigon · Vietnam",
         "email": "dev.thanhdat@gmail.com",
-        "pdfUrl": "https://github.com/vuthanhdatdev/vuthanhdatdev/blob/main/MyCV.pdf",
+        "profileImageUrl": "https://raw.githubusercontent.com/vuthanhdatdev/vuthanhdatdev/main/profile.jpg",
+        "pdfUrl": "https://raw.githubusercontent.com/vuthanhdatdev/vuthanhdatdev/main/MyCV.pdf",
         "githubUrl": "https://github.com/vuthanhdatdev",
         "shortIntroduction": "I am passionate software wizard with 6 years experience of Java, AWS, NodeJS",
         "linkedInUrl": "https://github.com/vuthanhdatdev",
@@ -91,6 +92,5 @@
             "endFrom": "August 2020",
             "providedBy": "British Council"
         }
-    
     ]
 }
